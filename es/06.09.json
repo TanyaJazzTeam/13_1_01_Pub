@@ -1,0 +1,30 @@
+{
+  "physics": [
+    {
+      "name": "Mechanics",
+      "sections": [
+        {
+          "name": "Kinematics",
+          "interest": "great",
+          "bool": true
+        },
+        {
+          "name": "Hydrodynamics",
+          "bool": false
+        }
+      ]
+    },
+    {
+      "useful links": [
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    }
+  ]
+}
